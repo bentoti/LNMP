@@ -1,0 +1,7 @@
+# .gitignore
+.env
+db_data/
+vendor/
+.docker/
+*log
+*.tmp
